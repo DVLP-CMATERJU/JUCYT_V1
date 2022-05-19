@@ -6,7 +6,7 @@ The dataset contains 10 cytology image dataset
 
 
 
-<img src="/process.png" style="margin: 10px;">
+<img src="/process.png" style="margin: 5px;">
 
 This work is funded by SERB, GoI and the datasets are collected from Theism Diagnosis Centre, West Bengal, India.
 
