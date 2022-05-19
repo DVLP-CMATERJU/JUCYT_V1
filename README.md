@@ -1,6 +1,6 @@
 # JUCYT_V1 Cytology Dataset
 
-This is a subset of the JUCYT_V1 cytology database. It contains 10 cytology image dataset
+This is a subset of the JUCYT_V1 cytology database. It contains 6 cytology image dataset
   * 3 Benign samples
   * 3 Malignant samples
  
