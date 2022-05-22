@@ -9,5 +9,5 @@ The complete dataset will be uploaded soon.
 
 <img src="/process.png" style="margin: 5px;">
 
-This work is funded by SERB, Government of India and the FNAC slides have collected from Theism Diagnosis Centre, West Bengal, India. The database has preparaed at CMATER Lab, Dept. of Computer Sc. and Engg., Jadavpur University, India.
+This work is funded by SERB, Government of India and the FNAC slides are collected from Theism Diagnosis Centre, West Bengal, India. The database has preparaed at CMATER Lab, Dept. of Computer Sc. and Engg., Jadavpur University, India.
 
